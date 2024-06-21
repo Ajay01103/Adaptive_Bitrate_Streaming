@@ -1,0 +1,1 @@
+docker run -it -v "C:\Users\HARVEER SINGH\Desktop\streaming\videos:/home/app/videos" streaming
